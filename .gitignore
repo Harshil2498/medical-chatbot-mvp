@@ -1,0 +1,8 @@
+**/node_modules/
+**/venv/
+**/venv_311/
+**/__pycache__/
+**/chroma_db/
+.env
+.vscode/
+*.log
